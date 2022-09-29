@@ -1,0 +1,27 @@
+Circuit: * C:\users\jesus\Mis Documentos\UTSA\Materias\Potencia\Labs\Lab4\Three_Phase_Controller_RL.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.00276667 to 0.00276667
+Heightened Def Con from 0.00552667 to 0.00552667
+Heightened Def Con from 0.0110467 to 0.0110467
+Heightened Def Con from 0.0165667 to 0.0165667
+Heightened Def Con from 0.0304067 to 0.0304067
+
+Date: Fri Apr 22 15:22:50 2022
+Total elapsed time: 1.732 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 41984
+traniter = 41975
+tranpoints = 16682
+accept = 13794
+rejected = 2893
+matrix size = 175
+fillins = 83
+solver = Normal
+Thread vector: 30.5/10.9[4] 3.8/4.8[1] 14.9/9.0[4] 1.1/2.6[1]  2592/500
+Matrix Compiler1: 9.07 KB object code size  4.9/2.7/[0.9]
+Matrix Compiler2: 13.18 KB object code size  2.2/3.7/[1.2]
+
