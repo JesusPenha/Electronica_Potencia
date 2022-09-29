@@ -1,0 +1,21 @@
+Circuit: * C:\users\jesus\Mis Documentos\UTSA\Materias\Potencia\Labs\Lab3\opto_diac\Triac circuit.asc
+
+.OP point found by inspection.
+
+Date: Fri Apr 01 15:23:31 2022
+Total elapsed time: 0.115 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9750
+traniter = 9750
+tranpoints = 3647
+accept = 2988
+rejected = 659
+matrix size = 29
+fillins = 22
+solver = Normal
+Matrix Compiler1: 3.82 KB object code size  1.0/0.7/[0.4]
+Matrix Compiler2: 3.01 KB object code size  0.4/0.7/[0.3]
+
